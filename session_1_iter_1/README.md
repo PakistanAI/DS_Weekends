@@ -1,1 +1,1 @@
-hello
+# Session #1 outline
