@@ -8,7 +8,7 @@ To make sure that you benefit from the all the cool stuff we have planned for ev
 - [jupyter notebook](http://jupyter.org/)  
 
 Also, you will need to have the following libraries installed:  
-For R: tidyverse, devtools, openintro and statsr. For the first three libraries just type `install.packages('package-name-in-quotes')`
+For R: tidyverse, devtools, openintro and statsr. For the first three libraries just type on the R console: `install.packages('package-name-in-quotes')`
 e.g:  
 
 ```
@@ -24,7 +24,7 @@ After installing the first three type in the R console:
 
 For python: 
 
-If you have anaconda, then you'll already have most of the packages, but in that case, we recommend that you don't install R through anaconda. Studies have shown that most people who use R in anaconda curse out of frustration at least twice as much as those who install R from cran. Not to mention nightmares. And some cases of destroyed keyboards. Not advisable. Especially if you own a mac. Who's gonna' pay for that? Instead, install R separately from the link provided above. 
+If you have anaconda, then you'll already have most of the packages, but in that case, we recommend that you don't install R through anaconda. Studies have shown that (the already rare cases of) people who use install R in anaconda, curse out of frustration at least twice as much as those who install R from cran. Not to mention nightmares. And some cases of destroyed keyboards. Not advisable. Especially if you own a mac. Who's gonna' pay for that? Instead, install R separately from the link provided above. 
 
 In the rare case that you are a good person and a firm believer in sustainable use of storage and bandwidth to conserve the planet, and install python from the above link as well, type on the terminal (you'll have pip installed in that case):  
 
