@@ -42,6 +42,6 @@ Update: Boss says we need to cater to Windows users as well :disappointed:. So h
 pip install numpy scipy matplotlib ipython jupyter pandas
 ```
 
-If you face any problem, we will have volunteers at the event who you can request assistance from (seriously, you're gonna' do that? In the age of Google? There has to be a name for this special breed of lazy you gotta' be if you still need to ask anybody for assistance. Google it).
+If you face any problem, we will have volunteers at the event who you can request assistance from (seriously? you're gonna' do that? In the age of Google? Khuda ko maano. There has to be a name for this special breed of lazy you gotta' be if you still need to ask anybody for assistance. Just Google it).
 
 
