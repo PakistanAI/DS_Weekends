@@ -36,6 +36,12 @@ If you're a Windows user I don't wanna talk to you. Use Google. Search for "inst
 
 To install tensorflow, follow the instructions [here](https://www.tensorflow.org/install/)
 
+Update: Boss says we need to cater to Windows users as well :disappointed:. So here's the command for Windows (type in command prompt. You can bring it up by searching for cmd):
 
+```
+pip install numpy scipy matplotlib ipython jupyter pandas
+```
+
+If you face any problem, we will have volunteers at the event who you can request assistance from (seriously, you're gonna' do that? In the age of Google? There has to be a name for this special breed of lazy you gotta' be if you still need to ask anybody for assistance. Google it).
 
 
