@@ -15,7 +15,7 @@ e.g:
 > install.packages('tidyverse')
 ```
 
-After installing the first three type in the R console: 
+After installing the first three, i.e: tidyverse, devtools and openintro, to install statsr, type in the R console: 
 
 ```
 > library(devtools)
@@ -44,4 +44,5 @@ pip install numpy scipy matplotlib ipython jupyter pandas
 
 If you face any problem, we will have volunteers at the event who you can request assistance from (seriously? you're gonna' do that? In the age of Google? Khuda ko maano. There has to be a name for this special breed of lazy you gotta' be if you still need to ask anybody for assistance. Just Google it).
 
+And seriously, set up everything before you come. There'll be around 80 people. You expect the WiFi to work? Lol!
 
