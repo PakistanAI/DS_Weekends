@@ -8,7 +8,9 @@ To make sure that you benefit from the all the cool stuff we have planned for ev
 - [jupyter notebook](http://jupyter.org/)  
 
 Also, you will need to have the following libraries installed:  
-For R: tidyverse, devtools, openintro and statsr. For the first three libraries just type on the R console: `install.packages('package-name-in-quotes')`
+For R: tidyverse, devtools, openintro and statsr. For the first three libraries just type on the R console:
+
+`install.packages('package-name-in-quotes')`
 e.g:  
 
 ```
