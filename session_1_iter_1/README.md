@@ -1,3 +1,19 @@
+## Plan
+
+### Segment 1: Exploratory Data Analysis
+
+Generate questions about your data, search for answers by visualizing, transforming, and modelling your data, use what you learn to refine your questions and/or generate new questions.
+
+Mentor: Javeria Nisar
+
+### Segment 2: Inferential Statistics
+
+Explore the phenomenon of sampling variablity, examine the Central Limit theorem as a way to quantify that variability and hence infer about the population. The Normal distribution and its usage, as a prerequisite to the CLT.
+
+### Segment 3: Statistical Learning
+
+Introduction to Statistical Learning, need for models, notation to be used throughout the course, and some linear algebra.
+
 ## Important
 
 To make sure that you benefit from the all the cool stuff we have planned for everybody to learn and practice hands-on, please ensure that you bring your laptops with the following software and packages installed. This is to ensure that you can follow our mentors and don't need to waste precious time during the workshop in installation and setup.
