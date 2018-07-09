@@ -12,5 +12,8 @@ So they were generous enough with their time to guide us through the skills peop
 
 [Here's a draft](https://github.com/PakistanAI/DS_Weekends/blob/master/Outline_draft.md) of what we plan to teach in the first module right now. We are trying to devise a syllabus that's a mix between skills you will need in your job, plus knowledge that will help you through the interview. We'll also help you create a github profile that has projects which showcase skills that are sought-after. It's very cool, really. More effective than the amazing manjan you bought in your bus route the other day.
 
-## Iteration 1
+## Course Logistics
+The course is composed of 12 sessions, each session happening on a weekly basis. Each session will be then further subdivided into 3-2 subsessions where a certain topic will be taught. Students who do not show up for 2 sessions will be disqualified from the workshop overall. The software from here must be installed to be able to follow along with the sessions.
+
+## Module 1
 #### [Session 1](https://github.com/PakistanAI/DS_Weekends/tree/master/session_1_iter_1)
