@@ -10,7 +10,11 @@ Mentor: Javeria Nisar
 
 Explore the phenomenon of sampling variablity, examine the Central Limit theorem as a way to quantify that variability and hence infer about the population. The Normal distribution and its usage, as a prerequisite to the CLT.
 
+Mentor: Umair Rafique
+
 ### Segment 3: Statistical Learning
 
 Introduction to Statistical Learning, need for models, notation to be used throughout the course, and some linear algebra.
+
+Mentor: Umair Rafique
 
