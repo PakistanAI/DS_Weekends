@@ -19,3 +19,7 @@ Mentor: Umair Rafique
 Introduction to Statistical learning, notation, Simple Linear Regression.
 
 Mentor: Zaid Memon
+
+### To read before next session:
+
+Sections 4.1 and 4.2 from chapter 4. And all the previous chapters along with all the exercises. Remember people: the reading you do between the sessions will actually define what you learn. Not the sessions themselves.
