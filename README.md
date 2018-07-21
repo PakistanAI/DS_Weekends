@@ -17,3 +17,4 @@ The course is composed of 12 sessions, each session happening on a weekly basis.
 
 ## Module 1
 #### [Session 1](https://github.com/PakistanAI/DS_Weekends/tree/master/session_1_mod_1)
+#### [Session 2](https://github.com/PakistanAI/DS_Weekends/tree/master/session_2_mod_1)
