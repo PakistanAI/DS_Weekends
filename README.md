@@ -10,7 +10,9 @@ So what the cool dudes at Pakistan.ai (that's us, and gals too, see we're all fo
 
 So they were generous enough with their time to guide us through the skills people need to have if they want to help them make some serious dough, and we compiled a syllabus and gathered some expertise to teach those skills to you! And the best part is, wait for it \<Barney from HIMYM-style pause here>... we are doing the first iteration of our award-winning, FDA-approved, recognized-world-over-and-even-in-Mars course for ABSOLUTELY FREE!
 
-[Here's a draft](https://github.com/PakistanAI/DS_Weekends/blob/master/Outline_draft.md) of what we plan to teach in the first module right now. We are trying to devise a syllabus that's a mix between skills you will need in your job, plus knowledge that will help you through the interview. We'll also help you create a github profile that has projects which showcase skills that are sought-after. It's very cool, really. More effective than the amazing manjan you bought in your bus route the other day.
+[Here's a draft](https://github.com/PakistanAI/DS_Weekends/blob/master/Outline_draft.md) of what we plan to teach in the first module right now. We are trying to devise a syllabus that's a mix between skills you will need in your job, plus knowledge that will help you through the interview. We'll also help you create a github profile that has projects which showcase skills that are sought-after. It's very cool, really. More effective than the amazing manjan you bought in your bus route the other day.     
+
+Here's a [video promo](https://www.facebook.com/PakistandotAI/videos/1790624304324625/) regarding DS Weekends!
 
 ## Course Logistics
 The course is composed of 12 sessions, each session happening on a weekly basis. Each session will be then further subdivided into 3-2 sections where a certain topic will be taught. Students who do not show up for 2 sessions will be disqualified from the workshop overall. The software from [here](https://github.com/PakistanAI/DS_Weekends/blob/master/Installation.md) must be installed to be able to follow along with the sessions.
@@ -18,3 +20,4 @@ The course is composed of 12 sessions, each session happening on a weekly basis.
 ## Module 1
 #### [Session 1](https://github.com/PakistanAI/DS_Weekends/tree/master/session_1_mod_1)
 #### [Session 2](https://github.com/PakistanAI/DS_Weekends/tree/master/session_2_mod_1)
+#### [Session 3](https://github.com/PakistanAI/DS_Weekends/tree/master/session_3_mod_1)
