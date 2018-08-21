@@ -1,3 +1,8 @@
+#Execute the command if you dont have libraries installed
+install.packages("MASS")
+install.packages("ISLR")
+
+
 library(MASS)
 library(ISLR)
 
